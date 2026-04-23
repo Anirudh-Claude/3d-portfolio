@@ -61,7 +61,7 @@ const SocialIcons = () => {
       <div className="social-icons" data-cursor="icons" id="social">
         <span>
           <a
-            href="https://github.com/akashrmalhotra"
+            href="https://github.com/Anirudh01-os"
             target="_blank"
             rel="noreferrer"
           >
@@ -70,7 +70,7 @@ const SocialIcons = () => {
         </span>
         <span>
           <a
-            href="https://www.linkedin.com/in/akashrmalhotra/"
+            href="https://www.linkedin.com/in/anirudh-koppuravuri-762643338/"
             target="_blank"
             rel="noreferrer"
           >
@@ -79,16 +79,16 @@ const SocialIcons = () => {
         </span>
         <span>
           <a
-            href="https://www.youtube.com/@Leftbraincoder"
+            href="anirudhkoppuravuri1@gmail.com"
             target="_blank"
             rel="noreferrer"
           >
-            <FaYoutube />
+            <FaE-Mail />
           </a>
         </span>
         <span>
           <a
-            href="https://www.instagram.com/leftbraincoder/"
+            href="https://www.instagram.com/_.urstrulyanirudh._/"
             target="_blank"
             rel="noreferrer"
           >
@@ -98,7 +98,7 @@ const SocialIcons = () => {
       </div>
       <a
         className="resume-button"
-        href="/Akash_Malhotra.pdf"
+        href="/anirudh_koppuravuri_resume.pdf"
         target="_blank"
         rel="noreferrer"
       >
